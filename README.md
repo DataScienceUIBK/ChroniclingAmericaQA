@@ -1,1 +1,1 @@
-# HistoricalNewsQA
+# ChroniclingAmericaQA
