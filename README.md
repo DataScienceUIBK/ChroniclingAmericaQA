@@ -6,7 +6,7 @@ ChroniclingAmetricaQA, is a large-scale question-answering dataset comprising 48
 
 ### Dataset
 
-Structured as JSON files, the ChricinclingAmericaQA dataset includes `train.json`, `val.json`, and `test.json` for training, validation, and testing phases, respectively.
+Structured as JSON files, the ChricinclingAmericaQA dataset includes `train.json`, `dev.json`, and `test.json` for training, validation, and testing phases, respectively.
 
 - **Data Structure**: 
 ```json
@@ -26,9 +26,9 @@ Structured as JSON files, the ChricinclingAmericaQA dataset includes `train.json
 ```
 
 
-- **Training Set**: [Download](https://huggingface.co/datasets/Bhawna/ChroniclingAmericaQA/resolve/main/Train.json?download=true)
-- **Development Set**: [Download](https://huggingface.co/datasets/Bhawna/ChroniclingAmericaQA/blob/main/Dev.json?download=true)
-- **Test Set**: [Download](https://huggingface.co/datasets/Bhawna/ChroniclingAmericaQA/resolve/main/Test.json?download=true)
+- **Training Set**: [Download](https://huggingface.co/datasets/Bhawna/ChroniclingAmericaQA/resolve/main/train.json?download=true)
+- **Development Set**: [Download](https://huggingface.co/datasets/Bhawna/ChroniclingAmericaQA/resolve/main/dev.json?download=true)
+- **Test Set**: [Download](https://huggingface.co/datasets/Bhawna/ChroniclingAmericaQA/resolve/main/test.json?download=true)
 
 
 ### Dataset Statistics
