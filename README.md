@@ -35,3 +35,23 @@ Structured as JSON files, the ChricinclingAmericaQA dataset includes `train.json
 |                   | Training  | Development | Test   |
 | ----------------- | --------- | ----------- | ------ |
 | Num. of Questions | 439,302   | 24,111      | 24,084 |
+
+## Citation
+```
+@inproceedings{piryani2024chroniclingamericaqa,
+author = {Piryani, Bhawna and Mozafari, Jamshid and Jatowt, Adam},
+title = {ChroniclingAmericaQA: A Large-scale Question Answering Dataset based on Historical American Newspaper Pages},
+year = {2024},
+isbn = {9798400704314},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3626772.3657891},
+doi = {10.1145/3626772.3657891},
+booktitle = {Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval},
+pages = {2038–2048},
+numpages = {11},
+keywords = {heritage collections, ocr text, question answering},
+location = {Washington DC, USA},
+series = {SIGIR '24}
+}
+```
