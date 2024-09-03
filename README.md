@@ -12,7 +12,7 @@ Structured as JSON files, the ChricinclingAmericaQA dataset includes `train.json
 ```json
 [
     {
-        "qestion": "",
+        "question": "",
         "answer": "",
         "org_answer": "",
         "para_id": "",
