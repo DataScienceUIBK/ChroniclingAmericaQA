@@ -37,6 +37,8 @@ Structured as JSON files, the ChricinclingAmericaQA dataset includes `train.json
 | Num. of Questions | 439,302   | 24,111      | 24,084 |
 
 ## Citation
+
+If you find the dataset and code helpful, please consider citing our [paper](https://dl.acm.org/doi/10.1145/3626772.3657891).
 ```
 @inproceedings{piryani2024chroniclingamericaqa,
 author = {Piryani, Bhawna and Mozafari, Jamshid and Jatowt, Adam},
