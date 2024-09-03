@@ -40,7 +40,7 @@ Structured as JSON files, the ChricinclingAmericaQA dataset includes `train.json
 
 If you find the dataset helpful, please consider citing our [paper](https://dl.acm.org/doi/10.1145/3626772.3657891).
 ```
-@inproceedings{piryani2024chroniclingamericaqa,
+@inproceedings{10.1145/3626772.3657891,
 author = {Piryani, Bhawna and Mozafari, Jamshid and Jatowt, Adam},
 title = {ChroniclingAmericaQA: A Large-scale Question Answering Dataset based on Historical American Newspaper Pages},
 year = {2024},
