@@ -7,6 +7,8 @@
 
 ChroniclingAmetricaQA, is a large-scale question-answering dataset comprising question-answer pairs over a collection of historical American newspapers to facilitate the development of QA and MRC systems over historical texts. 
 
+<img src="Image/ChroniclingAmericaQA_framework.png">
+
 ## Download Links
 
 ### Dataset
